@@ -74,6 +74,8 @@
    "milestoneTotal": 13,
    "actions": 36,
    "minutes": 0,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "e104d46"
   },
@@ -94,6 +96,8 @@
    "milestoneTotal": 13,
    "actions": 81,
    "minutes": 0,
+   "playerCostUsd": 0.14,
+   "gmCostUsd": 0,
    "costUsd": 0.14,
    "harness": "e104d46"
   },
@@ -114,6 +118,8 @@
    "milestoneTotal": 13,
    "actions": 120,
    "minutes": 0,
+   "playerCostUsd": 1.37,
+   "gmCostUsd": 0,
    "costUsd": 1.37,
    "harness": "e104d46"
   },
@@ -135,6 +141,8 @@
    "milestoneTotal": 13,
    "actions": 38,
    "minutes": 0,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "5f7866e"
   },
@@ -156,6 +164,8 @@
    "milestoneTotal": 13,
    "actions": 32,
    "minutes": 0,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "5f7866e"
   },
@@ -177,6 +187,8 @@
    "milestoneTotal": 13,
    "actions": 31,
    "minutes": 0,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "5f7866e"
   },
@@ -198,6 +210,8 @@
    "milestoneTotal": 13,
    "actions": 24,
    "minutes": 0,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "5f7866e"
   },
@@ -219,6 +233,8 @@
    "milestoneTotal": 13,
    "actions": 45,
    "minutes": 0,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "5f7866e"
   },
@@ -240,6 +256,8 @@
    "milestoneTotal": 13,
    "actions": 64,
    "minutes": 0,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "d21ef86"
   },
@@ -261,6 +279,8 @@
    "milestoneTotal": 13,
    "actions": 112,
    "minutes": 0,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0,
    "costUsd": 0.07,
    "harness": "d21ef86"
   },
@@ -282,6 +302,8 @@
    "milestoneTotal": 13,
    "actions": 44,
    "minutes": 0,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "d21ef86"
   },
@@ -303,6 +325,8 @@
    "milestoneTotal": 13,
    "actions": 22,
    "minutes": 0,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "d21ef86"
   },
@@ -324,6 +348,8 @@
    "milestoneTotal": 13,
    "actions": 57,
    "minutes": 0,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0,
    "costUsd": 0.04,
    "harness": "d21ef86"
   },
@@ -345,6 +371,8 @@
    "milestoneTotal": 13,
    "actions": 19,
    "minutes": 0,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "d21ef86"
   },
@@ -366,6 +394,8 @@
    "milestoneTotal": 13,
    "actions": 109,
    "minutes": 170,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "77be8b6"
   },
@@ -395,6 +425,8 @@
    "milestoneTotal": 13,
    "actions": 52,
    "minutes": 113,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "a6afa90"
   },
@@ -420,6 +452,8 @@
    "milestoneTotal": 13,
    "actions": 43,
    "minutes": 37,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "b49f8f1"
   },
@@ -450,6 +484,8 @@
    "milestoneTotal": 13,
    "actions": 72,
    "minutes": 61,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "b49f8f1"
   },
@@ -479,6 +515,8 @@
    "milestoneTotal": 13,
    "actions": 120,
    "minutes": 120,
+   "playerCostUsd": 1.65,
+   "gmCostUsd": 0,
    "costUsd": 1.65,
    "harness": "b49f8f1"
   },
@@ -504,6 +542,8 @@
    "milestoneTotal": 13,
    "actions": 17,
    "minutes": 16,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "b49f8f1"
   },
@@ -532,6 +572,8 @@
    "milestoneTotal": 13,
    "actions": 133,
    "minutes": 145,
+   "playerCostUsd": 0.08,
+   "gmCostUsd": 0,
    "costUsd": 0.08,
    "harness": "b49f8f1"
   },
@@ -558,6 +600,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 19,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "b49f8f1"
   },
@@ -583,6 +627,8 @@
    "milestoneTotal": 13,
    "actions": 22,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "b49f8f1"
   },
@@ -608,6 +654,8 @@
    "milestoneTotal": 13,
    "actions": 15,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "b49f8f1"
   },
@@ -637,6 +685,8 @@
    "milestoneTotal": 13,
    "actions": 110,
    "minutes": 103,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -667,6 +717,8 @@
    "milestoneTotal": 13,
    "actions": 129,
    "minutes": 85,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -696,6 +748,8 @@
    "milestoneTotal": 13,
    "actions": 120,
    "minutes": 104,
+   "playerCostUsd": 0.13,
+   "gmCostUsd": 0,
    "costUsd": 0.13,
    "harness": "2892e79"
   },
@@ -725,6 +779,8 @@
    "milestoneTotal": 13,
    "actions": 98,
    "minutes": 111,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -754,6 +810,8 @@
    "milestoneTotal": 13,
    "actions": 72,
    "minutes": 44,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -783,6 +841,8 @@
    "milestoneTotal": 13,
    "actions": 82,
    "minutes": 75,
+   "playerCostUsd": 0.33,
+   "gmCostUsd": 0,
    "costUsd": 0.33,
    "harness": "2892e79"
   },
@@ -809,6 +869,8 @@
    "milestoneTotal": 13,
    "actions": 59,
    "minutes": 50,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0,
    "costUsd": 0.04,
    "harness": "2892e79"
   },
@@ -834,6 +896,8 @@
    "milestoneTotal": 13,
    "actions": 26,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -859,6 +923,8 @@
    "milestoneTotal": 13,
    "actions": 35,
    "minutes": 24,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "2892e79"
   },
@@ -889,6 +955,8 @@
    "milestoneTotal": 13,
    "actions": 129,
    "minutes": 79,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -920,6 +988,8 @@
    "milestoneTotal": 13,
    "actions": 68,
    "minutes": 65,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -949,6 +1019,8 @@
    "milestoneTotal": 13,
    "actions": 120,
    "minutes": 86,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -980,6 +1052,8 @@
    "milestoneTotal": 13,
    "actions": 89,
    "minutes": 32,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1008,6 +1082,8 @@
    "milestoneTotal": 13,
    "actions": 55,
    "minutes": 44,
+   "playerCostUsd": 0.17,
+   "gmCostUsd": 0,
    "costUsd": 0.17,
    "harness": "2892e79"
   },
@@ -1033,6 +1109,8 @@
    "milestoneTotal": 13,
    "actions": 34,
    "minutes": 30,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "2892e79"
   },
@@ -1058,6 +1136,8 @@
    "milestoneTotal": 13,
    "actions": 14,
    "minutes": 15,
+   "playerCostUsd": 0,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1086,6 +1166,8 @@
    "milestoneTotal": 13,
    "actions": 44,
    "minutes": 36,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1114,6 +1196,8 @@
    "milestoneTotal": 13,
    "actions": 43,
    "minutes": 48,
+   "playerCostUsd": 0.13,
+   "gmCostUsd": 0,
    "costUsd": 0.13,
    "harness": "2892e79"
   },
@@ -1140,6 +1224,8 @@
    "milestoneTotal": 13,
    "actions": 121,
    "minutes": 86,
+   "playerCostUsd": 0.08,
+   "gmCostUsd": 0,
    "costUsd": 0.08,
    "harness": "2892e79"
   },
@@ -1168,6 +1254,8 @@
    "milestoneTotal": 13,
    "actions": 28,
    "minutes": 28,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1193,6 +1281,8 @@
    "milestoneTotal": 13,
    "actions": 19,
    "minutes": 16,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "2892e79"
   },
@@ -1221,6 +1311,8 @@
    "milestoneTotal": 13,
    "actions": 57,
    "minutes": 35,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1250,6 +1342,8 @@
    "milestoneTotal": 13,
    "actions": 121,
    "minutes": 155,
+   "playerCostUsd": 1.46,
+   "gmCostUsd": 0,
    "costUsd": 1.46,
    "harness": "2892e79"
   },
@@ -1275,6 +1369,8 @@
    "milestoneTotal": 13,
    "actions": 36,
    "minutes": 46,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "2892e79"
   },
@@ -1303,6 +1399,8 @@
    "milestoneTotal": 13,
    "actions": 81,
    "minutes": 96,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "2892e79"
   },
@@ -1332,6 +1430,8 @@
    "milestoneTotal": 13,
    "actions": 128,
    "minutes": 147,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1357,6 +1457,8 @@
    "milestoneTotal": 13,
    "actions": 29,
    "minutes": 27,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1387,6 +1489,8 @@
    "milestoneTotal": 13,
    "actions": 51,
    "minutes": 83,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1414,6 +1518,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 47,
+   "playerCostUsd": 0.14,
+   "gmCostUsd": 0,
    "costUsd": 0.14,
    "harness": "2892e79"
   },
@@ -1439,6 +1545,8 @@
    "milestoneTotal": 13,
    "actions": 23,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1463,6 +1571,8 @@
    "milestoneTotal": 13,
    "actions": 18,
    "minutes": 14,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1494,6 +1604,8 @@
    "milestoneTotal": 13,
    "actions": 127,
    "minutes": 66,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1519,6 +1631,8 @@
    "milestoneTotal": 13,
    "actions": 19,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1548,6 +1662,8 @@
    "milestoneTotal": 13,
    "actions": 80,
    "minutes": 157,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "2892e79"
   },
@@ -1577,6 +1693,8 @@
    "milestoneTotal": 13,
    "actions": 63,
    "minutes": 67,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "2892e79"
   },
@@ -1605,6 +1723,8 @@
    "milestoneTotal": 13,
    "actions": 36,
    "minutes": 39,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1635,6 +1755,8 @@
    "milestoneTotal": 13,
    "actions": 83,
    "minutes": 45,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1660,6 +1782,8 @@
    "milestoneTotal": 13,
    "actions": 84,
    "minutes": 77,
+   "playerCostUsd": 0.34,
+   "gmCostUsd": 0,
    "costUsd": 0.34,
    "harness": "2892e79"
   },
@@ -1689,6 +1813,8 @@
    "milestoneTotal": 13,
    "actions": 66,
    "minutes": 66,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1717,6 +1843,8 @@
    "milestoneTotal": 13,
    "actions": 78,
    "minutes": 155,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "2892e79"
   },
@@ -1742,6 +1870,8 @@
    "milestoneTotal": 13,
    "actions": 17,
    "minutes": 16,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "2892e79"
   },
@@ -1771,6 +1901,8 @@
    "milestoneTotal": 13,
    "actions": 82,
    "minutes": 40,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1796,6 +1928,8 @@
    "milestoneTotal": 13,
    "actions": 23,
    "minutes": 30,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "2892e79"
   },
@@ -1821,6 +1955,8 @@
    "milestoneTotal": 13,
    "actions": 56,
    "minutes": 38,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "2892e79"
   },
@@ -1850,6 +1986,8 @@
    "milestoneTotal": 13,
    "actions": 43,
    "minutes": 70,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1880,6 +2018,8 @@
    "milestoneTotal": 13,
    "actions": 89,
    "minutes": 108,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1905,6 +2045,8 @@
    "milestoneTotal": 13,
    "actions": 42,
    "minutes": 21,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1930,6 +2072,8 @@
    "milestoneTotal": 13,
    "actions": 16,
    "minutes": 15,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "2892e79"
   },
@@ -1955,6 +2099,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -1980,6 +2126,8 @@
    "milestoneTotal": 13,
    "actions": 111,
    "minutes": 90,
+   "playerCostUsd": 1.18,
+   "gmCostUsd": 0,
    "costUsd": 1.18,
    "harness": "2892e79"
   },
@@ -2005,6 +2153,8 @@
    "milestoneTotal": 13,
    "actions": 94,
    "minutes": 85,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "2892e79"
   },
@@ -2034,6 +2184,8 @@
    "milestoneTotal": 13,
    "actions": 79,
    "minutes": 35,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2062,6 +2214,8 @@
    "milestoneTotal": 13,
    "actions": 21,
    "minutes": 43,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "2892e79"
   },
@@ -2091,6 +2245,8 @@
    "milestoneTotal": 13,
    "actions": 79,
    "minutes": 57,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2119,6 +2275,8 @@
    "milestoneTotal": 13,
    "actions": 33,
    "minutes": 36,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2148,6 +2306,8 @@
    "milestoneTotal": 13,
    "actions": 108,
    "minutes": 136,
+   "playerCostUsd": 0.8,
+   "gmCostUsd": 0,
    "costUsd": 0.8,
    "harness": "2892e79"
   },
@@ -2173,6 +2333,8 @@
    "milestoneTotal": 13,
    "actions": 40,
    "minutes": 30,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2201,6 +2363,8 @@
    "milestoneTotal": 13,
    "actions": 19,
    "minutes": 34,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2226,6 +2390,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2254,6 +2420,8 @@
    "milestoneTotal": 13,
    "actions": 76,
    "minutes": 103,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2283,6 +2451,8 @@
    "milestoneTotal": 13,
    "actions": 34,
    "minutes": 67,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2312,6 +2482,8 @@
    "milestoneTotal": 13,
    "actions": 54,
    "minutes": 62,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "2892e79"
   },
@@ -2337,6 +2509,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2363,6 +2537,8 @@
    "milestoneTotal": 13,
    "actions": 39,
    "minutes": 35,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -2388,6 +2564,8 @@
    "milestoneTotal": 13,
    "actions": 53,
    "minutes": 73,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -2415,6 +2593,8 @@
    "milestoneTotal": 13,
    "actions": 52,
    "minutes": 56,
+   "playerCostUsd": 0.16,
+   "gmCostUsd": 0,
    "costUsd": 0.16,
    "harness": "9ae067b"
   },
@@ -2442,6 +2622,8 @@
    "milestoneTotal": 13,
    "actions": 56,
    "minutes": 90,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -2470,6 +2652,8 @@
    "milestoneTotal": 13,
    "actions": 65,
    "minutes": 42,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2495,6 +2679,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2525,6 +2711,8 @@
    "milestoneTotal": 13,
    "actions": 77,
    "minutes": 100,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2554,6 +2742,8 @@
    "milestoneTotal": 13,
    "actions": 71,
    "minutes": 122,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0,
    "costUsd": 0.04,
    "harness": "9ae067b"
   },
@@ -2580,6 +2770,8 @@
    "milestoneTotal": 13,
    "actions": 45,
    "minutes": 56,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2609,6 +2801,8 @@
    "milestoneTotal": 13,
    "actions": 47,
    "minutes": 27,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2638,6 +2832,8 @@
    "milestoneTotal": 13,
    "actions": 64,
    "minutes": 37,
+   "playerCostUsd": 0.22,
+   "gmCostUsd": 0,
    "costUsd": 0.22,
    "harness": "9ae067b"
   },
@@ -2667,6 +2863,8 @@
    "milestoneTotal": 13,
    "actions": 112,
    "minutes": 142,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0,
    "costUsd": 0.07,
    "harness": "9ae067b"
   },
@@ -2692,6 +2890,8 @@
    "milestoneTotal": 13,
    "actions": 20,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2719,6 +2919,8 @@
    "milestoneTotal": 13,
    "actions": 27,
    "minutes": 21,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "9ae067b"
   },
@@ -2744,6 +2946,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2771,6 +2975,8 @@
    "milestoneTotal": 13,
    "actions": 57,
    "minutes": 38,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2799,6 +3005,8 @@
    "milestoneTotal": 13,
    "actions": 53,
    "minutes": 38,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2826,6 +3034,8 @@
    "milestoneTotal": 13,
    "actions": 47,
    "minutes": 27,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2855,6 +3065,8 @@
    "milestoneTotal": 13,
    "actions": 89,
    "minutes": 45,
+   "playerCostUsd": 0.34,
+   "gmCostUsd": 0,
    "costUsd": 0.34,
    "harness": "9ae067b"
   },
@@ -2880,6 +3092,8 @@
    "milestoneTotal": 13,
    "actions": 20,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2905,6 +3119,8 @@
    "milestoneTotal": 13,
    "actions": 41,
    "minutes": 30,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -2929,6 +3145,8 @@
    "milestoneTotal": 13,
    "actions": 17,
    "minutes": 24,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2957,6 +3175,8 @@
    "milestoneTotal": 13,
    "actions": 47,
    "minutes": 28,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -2982,6 +3202,8 @@
    "milestoneTotal": 13,
    "actions": 21,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3009,6 +3231,8 @@
    "milestoneTotal": 13,
    "actions": 30,
    "minutes": 22,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "9ae067b"
   },
@@ -3038,6 +3262,8 @@
    "milestoneTotal": 13,
    "actions": 59,
    "minutes": 44,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3063,6 +3289,8 @@
    "milestoneTotal": 13,
    "actions": 22,
    "minutes": 26,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3091,6 +3319,8 @@
    "milestoneTotal": 13,
    "actions": 57,
    "minutes": 35,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3116,6 +3346,8 @@
    "milestoneTotal": 13,
    "actions": 29,
    "minutes": 41,
+   "playerCostUsd": 0.08,
+   "gmCostUsd": 0,
    "costUsd": 0.08,
    "harness": "9ae067b"
   },
@@ -3144,6 +3376,8 @@
    "milestoneTotal": 13,
    "actions": 65,
    "minutes": 59,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3169,6 +3403,8 @@
    "milestoneTotal": 13,
    "actions": 27,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3194,6 +3430,8 @@
    "milestoneTotal": 13,
    "actions": 89,
    "minutes": 77,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "9ae067b"
   },
@@ -3221,6 +3459,8 @@
    "milestoneTotal": 13,
    "actions": 19,
    "minutes": 33,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "9ae067b"
   },
@@ -3246,6 +3486,8 @@
    "milestoneTotal": 13,
    "actions": 24,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3274,6 +3516,8 @@
    "milestoneTotal": 13,
    "actions": 133,
    "minutes": 131,
+   "playerCostUsd": 1.61,
+   "gmCostUsd": 0,
    "costUsd": 1.61,
    "harness": "9ae067b"
   },
@@ -3298,6 +3542,8 @@
    "milestoneTotal": 13,
    "actions": 14,
    "minutes": 13,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3323,6 +3569,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 34,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -3347,6 +3595,8 @@
    "milestoneTotal": 13,
    "actions": 20,
    "minutes": 15,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3376,6 +3626,8 @@
    "milestoneTotal": 13,
    "actions": 116,
    "minutes": 64,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3401,6 +3653,8 @@
    "milestoneTotal": 13,
    "actions": 21,
    "minutes": 16,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "9ae067b"
   },
@@ -3429,6 +3683,8 @@
    "milestoneTotal": 13,
    "actions": 42,
    "minutes": 27,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3457,6 +3713,8 @@
    "milestoneTotal": 13,
    "actions": 50,
    "minutes": 36,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3482,6 +3740,8 @@
    "milestoneTotal": 13,
    "actions": 120,
    "minutes": 81,
+   "playerCostUsd": 1.21,
+   "gmCostUsd": 0,
    "costUsd": 1.21,
    "harness": "9ae067b"
   },
@@ -3507,6 +3767,8 @@
    "milestoneTotal": 13,
    "actions": 26,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3534,6 +3796,8 @@
    "milestoneTotal": 13,
    "actions": 87,
    "minutes": 95,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "9ae067b"
   },
@@ -3562,6 +3826,8 @@
    "milestoneTotal": 13,
    "actions": 37,
    "minutes": 45,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "9ae067b"
   },
@@ -3587,6 +3853,8 @@
    "milestoneTotal": 13,
    "actions": 28,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3612,6 +3880,8 @@
    "milestoneTotal": 13,
    "actions": 32,
    "minutes": 19,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3640,6 +3910,8 @@
    "milestoneTotal": 13,
    "actions": 60,
    "minutes": 39,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3665,6 +3937,8 @@
    "milestoneTotal": 13,
    "actions": 23,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3693,6 +3967,8 @@
    "milestoneTotal": 13,
    "actions": 54,
    "minutes": 63,
+   "playerCostUsd": 0.18,
+   "gmCostUsd": 0,
    "costUsd": 0.18,
    "harness": "9ae067b"
   },
@@ -3718,6 +3994,8 @@
    "milestoneTotal": 13,
    "actions": 56,
    "minutes": 35,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0,
    "costUsd": 0.04,
    "harness": "9ae067b"
   },
@@ -3745,6 +4023,8 @@
    "milestoneTotal": 13,
    "actions": 45,
    "minutes": 38,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3772,6 +4052,8 @@
    "milestoneTotal": 13,
    "actions": 43,
    "minutes": 26,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3797,6 +4079,8 @@
    "milestoneTotal": 13,
    "actions": 26,
    "minutes": 22,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "9ae067b"
   },
@@ -3825,6 +4109,8 @@
    "milestoneTotal": 13,
    "actions": 49,
    "minutes": 26,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3850,6 +4136,8 @@
    "milestoneTotal": 13,
    "actions": 24,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3877,6 +4165,8 @@
    "milestoneTotal": 13,
    "actions": 67,
    "minutes": 78,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3906,6 +4196,8 @@
    "milestoneTotal": 13,
    "actions": 94,
    "minutes": 65,
+   "playerCostUsd": 0.42,
+   "gmCostUsd": 0,
    "costUsd": 0.42,
    "harness": "9ae067b"
   },
@@ -3930,6 +4222,8 @@
    "milestoneTotal": 13,
    "actions": 17,
    "minutes": 14,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -3955,6 +4249,8 @@
    "milestoneTotal": 13,
    "actions": 79,
    "minutes": 84,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "9ae067b"
   },
@@ -3980,6 +4276,8 @@
    "milestoneTotal": 13,
    "actions": 18,
    "minutes": 16,
+   "playerCostUsd": 0.01,
+   "gmCostUsd": 0,
    "costUsd": 0.01,
    "harness": "9ae067b"
   },
@@ -4005,6 +4303,8 @@
    "milestoneTotal": 13,
    "actions": 22,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -4030,6 +4330,8 @@
    "milestoneTotal": 13,
    "actions": 30,
    "minutes": 19,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -4059,6 +4361,8 @@
    "milestoneTotal": 13,
    "actions": 89,
    "minutes": 72,
+   "playerCostUsd": 0.36,
+   "gmCostUsd": 0,
    "costUsd": 0.36,
    "harness": "9ae067b"
   },
@@ -4085,6 +4389,8 @@
    "milestoneTotal": 13,
    "actions": 105,
    "minutes": 97,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0,
    "costUsd": 0.07,
    "harness": "9ae067b"
   },
@@ -4112,6 +4418,8 @@
    "milestoneTotal": 13,
    "actions": 47,
    "minutes": 38,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "9ae067b"
   },
@@ -4137,6 +4445,8 @@
    "milestoneTotal": 13,
    "actions": 32,
    "minutes": 28,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "9ae067b"
   },
@@ -4165,6 +4475,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 59,
+   "playerCostUsd": 0.15,
+   "gmCostUsd": 0,
    "costUsd": 0.15,
    "harness": "9ae067b"
   },
@@ -4192,6 +4504,8 @@
    "milestoneTotal": 13,
    "actions": 44,
    "minutes": 39,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "6e689fd"
   },
@@ -4220,6 +4534,8 @@
    "milestoneTotal": 13,
    "actions": 53,
    "minutes": 41,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "6e689fd"
   },
@@ -4245,6 +4561,8 @@
    "milestoneTotal": 13,
    "actions": 29,
    "minutes": 19,
+   "playerCostUsd": 0.25,
+   "gmCostUsd": 0,
    "costUsd": 0.25,
    "harness": "6e689fd"
   },
@@ -4272,6 +4590,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 28,
+   "playerCostUsd": 2.27,
+   "gmCostUsd": 0,
    "costUsd": 2.27,
    "harness": "6e689fd"
   },
@@ -4297,6 +4617,8 @@
    "milestoneTotal": 13,
    "actions": 25,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "6e689fd"
   },
@@ -4323,6 +4645,8 @@
    "milestoneTotal": 13,
    "actions": 125,
    "minutes": 58,
+   "playerCostUsd": 0.09,
+   "gmCostUsd": 0,
    "costUsd": 0.09,
    "harness": "6e689fd"
   },
@@ -4348,6 +4672,8 @@
    "milestoneTotal": 13,
    "actions": 21,
    "minutes": 36,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "6e689fd"
   },
@@ -4373,6 +4699,8 @@
    "milestoneTotal": 13,
    "actions": 18,
    "minutes": 25,
+   "playerCostUsd": null,
+   "gmCostUsd": 0,
    "costUsd": 0,
    "harness": "6e689fd"
   },
@@ -4398,6 +4726,8 @@
    "milestoneTotal": 13,
    "actions": 39,
    "minutes": 40,
+   "playerCostUsd": 0.83,
+   "gmCostUsd": 0,
    "costUsd": 0.83,
    "harness": "6e689fd"
   },
@@ -4423,6 +4753,8 @@
    "milestoneTotal": 13,
    "actions": 45,
    "minutes": 49,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "6e689fd"
   },
@@ -4448,6 +4780,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 45,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0,
    "costUsd": 0.03,
    "harness": "6e689fd"
   },
@@ -4473,6 +4807,8 @@
    "milestoneTotal": 13,
    "actions": 122,
    "minutes": 64,
+   "playerCostUsd": 2.25,
+   "gmCostUsd": 0,
    "costUsd": 2.25,
    "harness": "6e689fd"
   },
@@ -4498,6 +4834,8 @@
    "milestoneTotal": 13,
    "actions": 82,
    "minutes": 84,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0,
    "costUsd": 0.07,
    "harness": "6e689fd"
   },
@@ -4526,6 +4864,8 @@
    "milestoneTotal": 13,
    "actions": 88,
    "minutes": 111,
+   "playerCostUsd": 0.11,
+   "gmCostUsd": 0,
    "costUsd": 0.11,
    "harness": "6e689fd"
   },
@@ -4551,6 +4891,8 @@
    "milestoneTotal": 13,
    "actions": 108,
    "minutes": 86,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "6e689fd"
   },
@@ -4577,6 +4919,8 @@
    "milestoneTotal": 13,
    "actions": 109,
    "minutes": 80,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0,
    "costUsd": 0.07,
    "harness": "6e689fd"
   },
@@ -4604,6 +4948,8 @@
    "milestoneTotal": 13,
    "actions": 125,
    "minutes": 126,
+   "playerCostUsd": 0.1,
+   "gmCostUsd": 0,
    "costUsd": 0.1,
    "harness": "6e689fd"
   },
@@ -4629,6 +4975,8 @@
    "milestoneTotal": 13,
    "actions": 38,
    "minutes": 42,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "6e689fd"
   },
@@ -4657,6 +5005,8 @@
    "milestoneTotal": 13,
    "actions": 121,
    "minutes": 94,
+   "playerCostUsd": 1.83,
+   "gmCostUsd": 0,
    "costUsd": 1.83,
    "harness": "6e689fd"
   },
@@ -4684,6 +5034,8 @@
    "milestoneTotal": 13,
    "actions": 105,
    "minutes": 65,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0,
    "costUsd": 0.06,
    "harness": "6e689fd"
   },
@@ -4709,6 +5061,8 @@
    "milestoneTotal": 13,
    "actions": 68,
    "minutes": 43,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0,
    "costUsd": 0.04,
    "harness": "6e689fd"
   },
@@ -4737,6 +5091,8 @@
    "milestoneTotal": 13,
    "actions": 129,
    "minutes": 127,
+   "playerCostUsd": 0.1,
+   "gmCostUsd": 0,
    "costUsd": 0.1,
    "harness": "6e689fd"
   },
@@ -4762,6 +5118,8 @@
    "milestoneTotal": 13,
    "actions": 42,
    "minutes": 39,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "6e689fd"
   },
@@ -4787,6 +5145,8 @@
    "milestoneTotal": 13,
    "actions": 52,
    "minutes": 41,
+   "playerCostUsd": 0.3,
+   "gmCostUsd": 0,
    "costUsd": 0.3,
    "harness": "dc8b7f5"
   },
@@ -4813,6 +5173,8 @@
    "milestoneTotal": 13,
    "actions": 81,
    "minutes": 84,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0,
    "costUsd": 0.05,
    "harness": "dc8b7f5"
   },
@@ -4838,6 +5200,8 @@
    "milestoneTotal": 13,
    "actions": 36,
    "minutes": 21,
+   "playerCostUsd": 0.02,
+   "gmCostUsd": 0,
    "costUsd": 0.02,
    "harness": "dc8b7f5"
   },
@@ -4861,6 +5225,8 @@
    "milestoneTotal": 13,
    "actions": 102,
    "minutes": 84,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0.08,
    "costUsd": 0.14,
    "harness": "ca362d3"
   },
@@ -4887,6 +5253,8 @@
    "milestoneTotal": 13,
    "actions": 113,
    "minutes": 68,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0.1,
    "costUsd": 0.18,
    "harness": "441d08d"
   },
@@ -4913,6 +5281,8 @@
    "milestoneTotal": 13,
    "actions": 78,
    "minutes": 67,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0.92,
    "costUsd": 0.97,
    "harness": "3f6990a"
   },
@@ -4941,6 +5311,8 @@
    "milestoneTotal": 13,
    "actions": 79,
    "minutes": 77,
+   "playerCostUsd": 0.57,
+   "gmCostUsd": 0.87,
    "costUsd": 1.44,
    "harness": "3f6990a"
   },
@@ -4969,6 +5341,8 @@
    "milestoneTotal": 13,
    "actions": 69,
    "minutes": 66,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0.78,
    "costUsd": 0.82,
    "harness": "53422b4"
   },
@@ -4996,6 +5370,8 @@
    "milestoneTotal": 13,
    "actions": 37,
    "minutes": 18,
+   "playerCostUsd": 0.03,
+   "gmCostUsd": 0.38,
    "costUsd": 0.4,
    "harness": "1c57ecf"
   },
@@ -5023,6 +5399,8 @@
    "milestoneTotal": 13,
    "actions": 201,
    "minutes": 123,
+   "playerCostUsd": 0.8,
+   "gmCostUsd": 1.6,
    "costUsd": 2.39,
    "harness": "1c57ecf"
   },
@@ -5047,6 +5425,8 @@
    "milestoneTotal": 13,
    "actions": 107,
    "minutes": 86,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 1.19,
    "costUsd": 1.26,
    "harness": "1c57ecf"
   },
@@ -5073,6 +5453,8 @@
    "milestoneTotal": 13,
    "actions": 129,
    "minutes": 76,
+   "playerCostUsd": 0.09,
+   "gmCostUsd": 1.48,
    "costUsd": 1.57,
    "harness": "1c57ecf"
   },
@@ -5098,6 +5480,8 @@
    "milestoneTotal": 13,
    "actions": 109,
    "minutes": 89,
+   "playerCostUsd": 1.65,
+   "gmCostUsd": 5.65,
    "costUsd": 7.3,
    "harness": "1c57ecf"
   },
@@ -5122,6 +5506,8 @@
    "milestoneTotal": 13,
    "actions": 137,
    "minutes": 96,
+   "playerCostUsd": 1.91,
+   "gmCostUsd": 4.45,
    "costUsd": 6.36,
    "harness": "de5a7f1"
   },
@@ -5146,6 +5532,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 25,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0.28,
    "costUsd": 0.32,
    "harness": "3da0168"
   },
@@ -5170,6 +5558,8 @@
    "milestoneTotal": 13,
    "actions": 212,
    "minutes": 95,
+   "playerCostUsd": 0.15,
+   "gmCostUsd": 1.96,
    "costUsd": 2.11,
    "harness": "3da0168"
   },
@@ -5194,6 +5584,8 @@
    "milestoneTotal": 13,
    "actions": 127,
    "minutes": 90,
+   "playerCostUsd": 2.62,
+   "gmCostUsd": 4.7,
    "costUsd": 7.32,
    "harness": "3da0168"
   },
@@ -5220,6 +5612,8 @@
    "milestoneTotal": 13,
    "actions": 231,
    "minutes": 91,
+   "playerCostUsd": 0.16,
+   "gmCostUsd": 2.35,
    "costUsd": 2.51,
    "harness": "3da0168"
   },
@@ -5244,6 +5638,8 @@
    "milestoneTotal": 13,
    "actions": 195,
    "minutes": 100,
+   "playerCostUsd": 1.26,
+   "gmCostUsd": 0.6,
    "costUsd": 1.86,
    "harness": "3da0168"
   },
@@ -5268,6 +5664,8 @@
    "milestoneTotal": 13,
    "actions": 144,
    "minutes": 90,
+   "playerCostUsd": 4.12,
+   "gmCostUsd": 5.1,
    "costUsd": 9.22,
    "harness": "3da0168"
   },
@@ -5292,6 +5690,8 @@
    "milestoneTotal": 13,
    "actions": 194,
    "minutes": 88,
+   "playerCostUsd": 0.14,
+   "gmCostUsd": 2.05,
    "costUsd": 2.18,
    "harness": "3da0168"
   },
@@ -5316,6 +5716,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 71,
+   "playerCostUsd": 1.82,
+   "gmCostUsd": 0.96,
    "costUsd": 2.78,
    "harness": "3da0168"
   },
@@ -5340,6 +5742,8 @@
    "milestoneTotal": 13,
    "actions": 114,
    "minutes": 87,
+   "playerCostUsd": 1.64,
+   "gmCostUsd": 4.03,
    "costUsd": 5.67,
    "harness": "3da0168"
   },
@@ -5364,6 +5768,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 81,
+   "playerCostUsd": 0.18,
+   "gmCostUsd": 2.56,
    "costUsd": 2.74,
    "harness": "3da0168"
   },
@@ -5391,6 +5797,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 32,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0.49,
    "costUsd": 0.55,
    "harness": "3da0168"
   },
@@ -5417,6 +5825,8 @@
    "milestoneTotal": 13,
    "actions": 164,
    "minutes": 88,
+   "playerCostUsd": 4.61,
+   "gmCostUsd": 6.88,
    "costUsd": 11.49,
    "harness": "3da0168"
   },
@@ -5443,6 +5853,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 66,
+   "playerCostUsd": 0.18,
+   "gmCostUsd": 2.75,
    "costUsd": 2.93,
    "harness": "3da0168"
   },
@@ -5467,6 +5879,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 25,
+   "playerCostUsd": 0.06,
+   "gmCostUsd": 0.24,
    "costUsd": 0.3,
    "harness": "9f47af6"
   },
@@ -5491,6 +5905,8 @@
    "milestoneTotal": 13,
    "actions": 109,
    "minutes": 84,
+   "playerCostUsd": 0.16,
+   "gmCostUsd": 0.44,
    "costUsd": 0.59,
    "harness": "9f47af6"
   },
@@ -5518,6 +5934,8 @@
    "milestoneTotal": 13,
    "actions": 51,
    "minutes": 10,
+   "playerCostUsd": null,
+   "gmCostUsd": 0.44,
    "costUsd": 0.44,
    "harness": "6cdfc15"
   },
@@ -5545,6 +5963,8 @@
    "milestoneTotal": 13,
    "actions": 242,
    "minutes": 33,
+   "playerCostUsd": 0.19,
+   "gmCostUsd": 2.73,
    "costUsd": 2.92,
    "harness": "14939a9"
   },
@@ -5571,6 +5991,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 25,
+   "playerCostUsd": 1.15,
+   "gmCostUsd": 0.73,
    "costUsd": 1.89,
    "harness": "14939a9"
   },
@@ -5597,6 +6019,8 @@
    "milestoneTotal": 13,
    "actions": 140,
    "minutes": 89,
+   "playerCostUsd": 4.12,
+   "gmCostUsd": 7.28,
    "costUsd": 11.4,
    "harness": "14939a9"
   },
@@ -5625,6 +6049,8 @@
    "milestoneTotal": 13,
    "actions": 182,
    "minutes": 47,
+   "playerCostUsd": 0.14,
+   "gmCostUsd": 2.38,
    "costUsd": 2.52,
    "harness": "5ad2953"
   },
@@ -5651,6 +6077,8 @@
    "milestoneTotal": 13,
    "actions": 50,
    "minutes": 41,
+   "playerCostUsd": 0.15,
+   "gmCostUsd": 2.16,
    "costUsd": 2.31,
    "harness": "5ad2953"
   },
@@ -5678,6 +6106,8 @@
    "milestoneTotal": 13,
    "actions": 86,
    "minutes": 19,
+   "playerCostUsd": 0.08,
+   "gmCostUsd": 0.88,
    "costUsd": 0.96,
    "harness": "5ad2953"
   },
@@ -5707,6 +6137,8 @@
    "milestoneTotal": 13,
    "actions": 217,
    "minutes": 60,
+   "playerCostUsd": 0.19,
+   "gmCostUsd": 3.17,
    "costUsd": 3.35,
    "harness": "8eda10d"
   },
@@ -5736,6 +6168,8 @@
    "milestoneTotal": 13,
    "actions": 107,
    "minutes": 19,
+   "playerCostUsd": 0.28,
+   "gmCostUsd": 1.11,
    "costUsd": 1.39,
    "harness": "8eda10d"
   },
@@ -5762,6 +6196,8 @@
    "milestoneTotal": 13,
    "actions": 147,
    "minutes": 79,
+   "playerCostUsd": 4.93,
+   "gmCostUsd": 7.87,
    "costUsd": 12.8,
    "harness": "8eda10d"
   },
@@ -5786,6 +6222,8 @@
    "milestoneTotal": 13,
    "actions": 46,
    "minutes": 5,
+   "playerCostUsd": 0.04,
+   "gmCostUsd": 0.49,
    "costUsd": 0.53,
    "harness": "1befe8a"
   },
@@ -5814,6 +6252,8 @@
    "milestoneTotal": 13,
    "actions": 118,
    "minutes": 38,
+   "playerCostUsd": 1.99,
+   "gmCostUsd": 6.58,
    "costUsd": 8.57,
    "harness": "1befe8a"
   },
@@ -5842,6 +6282,8 @@
    "milestoneTotal": 13,
    "actions": 143,
    "minutes": 29,
+   "playerCostUsd": 0.1,
+   "gmCostUsd": 1.96,
    "costUsd": 2.06,
    "harness": "1befe8a"
   },
@@ -5872,6 +6314,8 @@
    "milestoneTotal": 13,
    "actions": 113,
    "minutes": 21,
+   "playerCostUsd": null,
+   "gmCostUsd": 1.32,
    "costUsd": 1.32,
    "harness": "95e2896"
   },
@@ -5902,6 +6346,8 @@
    "milestoneTotal": 13,
    "actions": 234,
    "minutes": 56,
+   "playerCostUsd": 0.2,
+   "gmCostUsd": 3.16,
    "costUsd": 3.36,
    "harness": "95e2896"
   },
@@ -5930,6 +6376,8 @@
    "milestoneTotal": 13,
    "actions": 93,
    "minutes": 12,
+   "playerCostUsd": 0.08,
+   "gmCostUsd": 1.04,
    "costUsd": 1.12,
    "harness": "95e2896"
   },
@@ -5961,6 +6409,8 @@
    "milestoneTotal": 13,
    "actions": 82,
    "minutes": 10,
+   "playerCostUsd": null,
+   "gmCostUsd": 0.85,
    "costUsd": 0.85,
    "harness": "95e2896"
   },
@@ -5991,6 +6441,8 @@
    "milestoneTotal": 13,
    "actions": 91,
    "minutes": 22,
+   "playerCostUsd": null,
+   "gmCostUsd": 4.51,
    "costUsd": 4.51,
    "harness": "95e2896"
   },
@@ -6017,6 +6469,8 @@
    "milestoneTotal": 13,
    "actions": 177,
    "minutes": 91,
+   "playerCostUsd": 7.16,
+   "gmCostUsd": 11.28,
    "costUsd": 18.44,
    "harness": "95e2896"
   },
@@ -6051,6 +6505,8 @@
    "milestoneTotal": 13,
    "actions": 105,
    "minutes": 16,
+   "playerCostUsd": null,
+   "gmCostUsd": 5.05,
    "costUsd": 5.05,
    "harness": "5940f64"
   },
@@ -6081,6 +6537,8 @@
    "milestoneTotal": 13,
    "actions": 107,
    "minutes": 17,
+   "playerCostUsd": null,
+   "gmCostUsd": 1.4,
    "costUsd": 1.4,
    "harness": "5940f64"
   },
@@ -6112,6 +6570,8 @@
    "milestoneTotal": 13,
    "actions": 78,
    "minutes": 23,
+   "playerCostUsd": null,
+   "gmCostUsd": 1.04,
    "costUsd": 1.04,
    "harness": "5940f64"
   },
@@ -6140,6 +6600,8 @@
    "milestoneTotal": 13,
    "actions": 240,
    "minutes": 70,
+   "playerCostUsd": 0.21,
+   "gmCostUsd": 3.89,
    "costUsd": 4.09,
    "harness": "33f2226"
   },
@@ -6167,6 +6629,8 @@
    "milestoneTotal": 13,
    "actions": 224,
    "minutes": 108,
+   "playerCostUsd": 8.77,
+   "gmCostUsd": 12.41,
    "costUsd": 21.18,
    "harness": "33f2226"
   },
@@ -6191,6 +6655,8 @@
    "milestoneTotal": 13,
    "actions": 111,
    "minutes": 18,
+   "playerCostUsd": 0.09,
+   "gmCostUsd": 1.05,
    "costUsd": 1.14,
    "harness": "33f2226"
   },
@@ -6218,6 +6684,8 @@
    "milestoneTotal": 13,
    "actions": 176,
    "minutes": 39,
+   "playerCostUsd": 0.13,
+   "gmCostUsd": 2.21,
    "costUsd": 2.34,
    "harness": "33f2226"
   },
@@ -6242,6 +6710,8 @@
    "milestoneTotal": 13,
    "actions": 90,
    "minutes": 35,
+   "playerCostUsd": 0.07,
+   "gmCostUsd": 0.59,
    "costUsd": 0.66,
    "harness": "33f2226"
   },
@@ -6271,6 +6741,8 @@
    "milestoneTotal": 13,
    "actions": 88,
    "minutes": 37,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0.85,
    "costUsd": 0.9,
    "harness": "33f2226"
   },
@@ -6300,6 +6772,8 @@
    "milestoneTotal": 13,
    "actions": 139,
    "minutes": 21,
+   "playerCostUsd": null,
+   "gmCostUsd": 1.33,
    "costUsd": 1.33,
    "harness": "d39209c"
   },
@@ -6328,8 +6802,94 @@
    "milestoneTotal": 13,
    "actions": 91,
    "minutes": 12,
+   "playerCostUsd": null,
+   "gmCostUsd": 0.8,
    "costUsd": 0.8,
    "harness": "d39209c"
+  },
+  {
+   "id": "2026-11-08T16-47-28-656Z-party-leader-last-gasp-play-v10-s7",
+   "date": "2026-11-08",
+   "version": 10,
+   "prompt": 8,
+   "narrated": true,
+   "gm": "claude:sonnet",
+   "protocol": "leader",
+   "seed": 7,
+   "provider": "claude",
+   "model": "haiku",
+   "effort": "high",
+   "status": "abandoned",
+   "escaped": false,
+   "milestones": [
+    "priests"
+   ],
+   "milestoneCount": 1,
+   "milestoneTotal": 13,
+   "actions": 58,
+   "minutes": 3,
+   "playerCostUsd": 0.05,
+   "gmCostUsd": 0.51,
+   "costUsd": 0.57,
+   "harness": "cb0fff9"
+  },
+  {
+   "id": "2026-11-08T16-47-29-115Z-party-discuss-last-gasp-play-v10-s7",
+   "date": "2026-11-08",
+   "version": 10,
+   "prompt": 8,
+   "narrated": true,
+   "gm": "claude:sonnet",
+   "protocol": "discuss",
+   "seed": 7,
+   "provider": "codex",
+   "model": "gpt-6-luna",
+   "effort": "low",
+   "status": "fail",
+   "escaped": false,
+   "milestones": [
+    "priests",
+    "hub",
+    "fires",
+    "wing",
+    "tablet-11"
+   ],
+   "milestoneCount": 5,
+   "milestoneTotal": 13,
+   "actions": 177,
+   "minutes": 80,
+   "playerCostUsd": null,
+   "gmCostUsd": 9.28,
+   "costUsd": 9.28,
+   "harness": "cb0fff9"
+  },
+  {
+   "id": "2026-11-08T16-47-29-822Z-party-discuss-last-gasp-play-v10-s7",
+   "date": "2026-11-08",
+   "version": 10,
+   "prompt": 8,
+   "narrated": true,
+   "gm": "claude:sonnet",
+   "protocol": "discuss",
+   "seed": 7,
+   "provider": "claude",
+   "model": "haiku",
+   "effort": "medium",
+   "status": "fail",
+   "escaped": false,
+   "milestones": [
+    "priests",
+    "hub",
+    "fires"
+   ],
+   "milestoneCount": 3,
+   "milestoneTotal": 13,
+   "actions": 110,
+   "minutes": 88,
+   "playerCostUsd": 1.05,
+   "gmCostUsd": 5.78,
+   "costUsd": 6.83,
+   "harness": "cb0fff9"
   }
  ]
 }

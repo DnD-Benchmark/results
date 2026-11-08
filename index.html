@@ -67,6 +67,12 @@
     <p class="note">Each point is the mean share of milestones reached over the games at that effort; a ringed point had at least one escape. “default” is the model's own default effort. Hover a point for the games behind it.</p>
   </div>
   <div class="card">
+    <h2>Result against cost</h2>
+    <p class="sub">Mean share of milestones against what the players cost a game, one point per model and effort. The GM (the same model for every party) is counted apart; Codex reports no cost, so its models are in the table only.</p>
+    <div class="chart" id="cost"></div>
+    <div class="tablewrap"><table id="costtable"></table></div>
+  </div>
+  <div class="card">
     <h2>Games</h2>
     <div class="tablewrap"><table id="table"></table></div>
     <p class="note" id="foot"></p>
@@ -141,9 +147,61 @@ function render() {
   });
   $('#chart svg').addEventListener('mouseleave', () => ($('#tip').style.display = 'none'));
   const rows = [...runs].sort((a, b) => a.model.localeCompare(b.model) || EFFORTS.indexOf(a.effort) - EFFORTS.indexOf(b.effort) || a.protocol.localeCompare(b.protocol) || a.seed - b.seed);
-  $('#table').innerHTML = '<tr><th>Model</th><th>Effort</th><th>Protocol</th><th>Seed</th><th>Milestones</th><th>Result</th><th>Minutes</th><th>Cost</th><th>Date</th></tr>' +
-    rows.map((r) => `<tr><td>${esc(r.model)}</td><td>${esc(r.effort)}</td><td>${esc(r.protocol)}</td><td class="num">${r.seed}</td><td class="num">${r.milestoneCount}/${r.milestoneTotal}</td><td>${r.escaped ? '<b style="color:var(--good)">escaped</b>' : esc(r.status === 'fail' ? 'lost' : r.status)}</td><td class="num">${r.minutes}</td><td class="num">$${r.costUsd.toFixed(2)}</td><td>${esc(r.date)}</td></tr>`).join('');
+  $('#table').innerHTML = '<tr><th>Model</th><th>Effort</th><th>Protocol</th><th>Seed</th><th>Milestones</th><th>Result</th><th>Minutes</th><th>Players cost</th><th>Date</th></tr>' +
+    rows.map((r) => `<tr><td>${esc(r.model)}</td><td>${esc(r.effort)}</td><td>${esc(r.protocol)}</td><td class="num">${r.seed}</td><td class="num">${r.milestoneCount}/${r.milestoneTotal}</td><td>${r.escaped ? '<b style="color:var(--good)">escaped</b>' : esc(r.status === 'fail' ? 'lost' : r.status)}</td><td class="num">${r.minutes}</td><td class="num">${r.playerCostUsd == null ? '<span style="color:var(--faint)">–</span>' : `$${r.playerCostUsd.toFixed(2)}`}</td><td>${esc(r.date)}</td></tr>`).join('');
+  renderCost(runs, colour);
   $('#foot').textContent = `Data exported ${state.data.exported}. Costs are the CLI's reported USD equivalent; Codex reports none. Milestones are as each game logged them under the rules of its version.`;
+}
+
+function renderCost(runs, colour) {
+  const groups = new Map();
+  for (const r of runs) {
+    const k = `${r.model}@${r.effort}`;
+    if (!groups.has(k)) groups.set(k, { model: r.model, effort: r.effort, games: [] });
+    groups.get(k).games.push(r);
+  }
+  const rows = [...groups.values()].map((g) => {
+    const n = g.games.length;
+    const costs = g.games.map((r) => r.playerCostUsd).filter((c) => c !== null && c !== undefined);
+    return {
+      ...g, n,
+      mean: g.games.reduce((a, r) => a + r.milestoneCount / r.milestoneTotal, 0) / n,
+      count: g.games.reduce((a, r) => a + r.milestoneCount, 0) / n,
+      escaped: g.games.filter((r) => r.escaped).length,
+      player: costs.length === n ? costs.reduce((a, b) => a + b, 0) / n : null,
+      gm: g.games.reduce((a, r) => a + (r.gmCostUsd ?? 0), 0) / n,
+    };
+  }).sort((a, b) => b.mean - a.mean || (a.player ?? 1e9) - (b.player ?? 1e9));
+  const priced = rows.filter((r) => r.player !== null && r.player > 0);
+  if (priced.length) {
+    const W = 960, H = 320, L = 44, R = 16, T = 12, B = 34;
+    const lo = Math.log10(Math.min(...priced.map((r) => r.player)) / 1.5), hi = Math.log10(Math.max(...priced.map((r) => r.player)) * 1.5);
+    const x = (c) => L + ((W - L - R) * (Math.log10(c) - lo)) / (hi - lo || 1);
+    const y = (v) => T + (H - T - B) * (1 - v);
+    const ticks = [0.01, 0.03, 0.1, 0.3, 1, 3, 10, 30, 100].filter((t) => Math.log10(t) >= lo && Math.log10(t) <= hi);
+    let svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Mean milestone share against players' cost per game">`;
+    svg += '<g class="grid">' + [0, 0.25, 0.5, 0.75, 1].map((v) => `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}"/>`).join('') + '</g>';
+    svg += '<g class="axis">' + [0, 0.25, 0.5, 0.75, 1].map((v) => `<text x="${L - 8}" y="${y(v) + 4}" text-anchor="end">${v * 100}%</text>`).join('');
+    svg += ticks.map((t) => `<text x="${x(t)}" y="${H - 10}" text-anchor="middle">$${t}</text>`).join('') + '</g>';
+    svg += priced.map((r, i) => `<g class="series"><circle class="${r.escaped ? 'esc' : ''}" cx="${x(r.player)}" cy="${y(r.mean)}" r="${r.escaped ? 6 : 5}" style="fill:${colour[r.model]}"/></g><text x="${x(r.player) + 9}" y="${y(r.mean) + 4}" style="fill:var(--muted);font-size:11px">${esc(r.effort === 'default' ? r.model : `${r.model} ${r.effort}`)}</text><circle class="hit" data-c="${i}" cx="${x(r.player)}" cy="${y(r.mean)}" r="14"/>`).join('');
+    svg += '</svg><div class="tip" id="ctip"></div>';
+    $('#cost').innerHTML = svg;
+    $('#cost svg').addEventListener('mousemove', (ev) => {
+      const hit = ev.target.closest?.('.hit');
+      const tip = $('#ctip');
+      if (!hit) { tip.style.display = 'none'; return; }
+      const r = priced[Number(hit.dataset.c)];
+      tip.innerHTML = `<b>${esc(r.model)} · ${esc(r.effort)}</b>${Math.round(r.mean * 100)}% of milestones · ${r.escaped}/${r.n} escaped<br>players $${r.player.toFixed(2)} a game · GM $${r.gm.toFixed(2)}`;
+      const box = $('#cost').getBoundingClientRect();
+      tip.style.display = 'block';
+      tip.style.left = `${Math.min(ev.clientX - box.left + 12, box.width - 190)}px`;
+      tip.style.top = `${ev.clientY - box.top + 12}px`;
+    });
+    $('#cost svg').addEventListener('mouseleave', () => ($('#ctip').style.display = 'none'));
+  } else $('#cost').innerHTML = '<div class="empty">No priced games for this selection.</div>';
+  const money = (v) => (v === null ? '<span style="color:var(--faint)">not reported</span>' : `$${v.toFixed(2)}`);
+  $('#costtable').innerHTML = '<tr><th>Model</th><th>Effort</th><th>Games</th><th>Milestones</th><th>Escaped</th><th>Players a game</th><th>GM a game</th><th>Per milestone</th></tr>' +
+    rows.map((r) => `<tr><td><span class="swatch" style="background:${colour[r.model]};margin-right:6px"></span>${esc(r.model)}</td><td>${esc(r.effort)}</td><td class="num">${r.n}</td><td class="num">${Math.round(r.mean * 100)}%</td><td class="num">${r.escaped}/${r.n}</td><td class="num">${money(r.player)}</td><td class="num">$${r.gm.toFixed(2)}</td><td class="num">${r.player === null || r.mean === 0 ? '–' : `$${(r.player / r.count).toFixed(3)}`}</td></tr>`).join('');
 }
 
 $('#task').innerHTML = DATASETS.map((d) => `<option value="${d}">${d === 'last-gasp' ? 'Last Gasp (Kobold Press)' : d}</option>`).join('');
